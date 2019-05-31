@@ -12,5 +12,4 @@ npm run dev
 ```sh
 npm run build
 ```
-Live preview: [Link](http://budzin.byethost17.com/upqode)
 
