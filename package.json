@@ -1,0 +1,21 @@
+{
+  "name": "upqode",
+  "version": "1.0.0",
+  "description": "test task",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp serve",
+    "build": "gulp"
+  },
+  "author": "Ihor Budzinskiy <igor.budzin95@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-sass-glob": "^1.0.8",
+    "gulp-util": "^3.0.8"
+  }
+}
